@@ -1,0 +1,16 @@
+PODS:
+  - lmkhwane2018 (0.1.0)
+
+DEPENDENCIES:
+  - lmkhwane2018 (from `../`)
+
+EXTERNAL SOURCES:
+  lmkhwane2018:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  lmkhwane2018: e82f1dabe6153d9a43b619e6cc25a3d17d59355f
+
+PODFILE CHECKSUM: 0693755d74b62fd8b87ee82b3dc3f5820785ea10
+
+COCOAPODS: 1.5.3

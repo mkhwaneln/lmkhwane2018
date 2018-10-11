@@ -1,0 +1,6 @@
+framework module Pods_lmkhwane2018_Example {
+  umbrella header "Pods-lmkhwane2018_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

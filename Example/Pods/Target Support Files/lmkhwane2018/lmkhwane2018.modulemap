@@ -1,0 +1,6 @@
+framework module lmkhwane2018 {
+  umbrella header "lmkhwane2018-umbrella.h"
+
+  export *
+  module * { export * }
+}
